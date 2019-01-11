@@ -1,0 +1,1 @@
+.clear:after,a,img{display:block}*,article,aside,body,div,form,h1,h2,h3,h4,h5,h6,header,html,input,li,mark,section,ul{margin:0;padding:0}img{border:none}ul li{list-style:none}h1,h2,h3,h4,h5,h6{font-weight:400}a{text-decoration:none}.clear:after{content:"";clear:both;overflow:hidden;height:0;visibility:hidden}

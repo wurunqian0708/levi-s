@@ -1,0 +1,31 @@
+@charset "utf-8";
+html,body,div,form,ul,li,input,header,article,section,aside,mark,h1,h2,h3,h4,h5,h6{
+	margin:0;
+	padding:0;
+}
+img{
+	border:none;
+	display:block;
+}
+ul li{
+	list-style:none;
+}
+*{
+	margin:0;
+	padding:0;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight: normal;
+}
+a{
+	text-decoration:none;
+	display:block;
+}
+.clear:after{
+	content:"";
+	clear:both;
+	overflow:hidden;
+	height:0;
+	visibility:hidden;
+	display:block;
+}
